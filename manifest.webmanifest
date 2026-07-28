@@ -1,0 +1,30 @@
+{
+  "name": "Impulso | Gestão Fitness",
+  "short_name": "Impulso",
+  "description": "Gestão financeira, alunos e cobranças para academias.",
+  "id": "/controle-academia-pages/",
+  "start_url": "/controle-academia-pages/",
+  "scope": "/controle-academia-pages/",
+  "display": "standalone",
+  "background_color": "#10251d",
+  "theme_color": "#10251d",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "icons/impulso-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/impulso-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/impulso-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
