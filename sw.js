@@ -1,4 +1,4 @@
-const CACHE_VERSION = "impulso-shell-v2";
+const CACHE_VERSION = "impulso-shell-v3";
 const APP_ROOT = "/controle-academia-pages/";
 const SHELL = [
   APP_ROOT,
